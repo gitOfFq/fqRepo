@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
 
+class Test
+{
+public:
+	Test(){}
+	~Test(){}
+};
+
 class MyPrint
 {
 private:
