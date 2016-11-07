@@ -20,3 +20,8 @@ public:
 		cout << "str = " << str << endl;
 	}
 };
+
+int main()
+{
+	return 0;
+}
